@@ -14,7 +14,7 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       - name: build the image
         run: |
-          docker build -t prateekhanda/pythonapp_image:1.0.0
+          docker build -t prateekhanda/pythonapp_image:1.0.0 .
       - name: Push Image
         run: |
           docker push prateekhanda/pythonapp_image:1.0.0
