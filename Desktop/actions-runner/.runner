@@ -1,0 +1,11 @@
+﻿{
+  "agentId": 2,
+  "agentName": "LAPTOP-6A87D68O",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelinesghubeus10.actions.githubusercontent.com/9xOGyza7YTMwkW1zeiN5NVA7lI2fqaIVVKgYLYxlfcOqpactZ2/",
+  "gitHubUrl": "https://github.com/prateekhanda/equalexpertsassignmentcicd",
+  "workFolder": "_work",
+  "useV2Flow": true,
+  "serverUrlV2": "https://broker.actions.githubusercontent.com/"
+}
